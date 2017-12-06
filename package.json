@@ -1,0 +1,14 @@
+{
+  "name": "discordbottemplate",
+  "version": "1.0.0",
+  "description": "Simple template for making a Discord bot.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Goforth",
+  "license": "ISC",  
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
