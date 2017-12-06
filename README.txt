@@ -4,7 +4,7 @@ FIRST:
 You need to have Node and NPM installed.
 After that, you need to initialize npm by opening a terminal/command-promt and type "npm init".
 After that, you need to install the Discord api by typing "npm install discord.js --save" in a terminal/command-promt.
-Now what you need to do is create a Discord bot and put it's token in config.json.
+Now what you need to do is create a Discord bot on the Discord developers website (link below) and put it's token in config.json.
 
 After Setup:
 To start the bot, open a terminal/command-promt in the folder with this bot. Then run this command: "node bot.js"
@@ -18,6 +18,9 @@ Contact/About:
 By Discord: https://discord.gg/9syQ2dF
 My Twitter: https://twitter.com/BenjaminFlankin
 --------------------------------------------------------------------------------
+Links:
+Discord Developer Website: https://discordapp.com/developers/
+Create a bot/app here: https://discordapp.com/developers/applications/me
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
