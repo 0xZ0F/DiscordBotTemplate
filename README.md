@@ -1,5 +1,4 @@
 How To:
-
 FIRST:
 
 You need to have Node and NPM installed.
