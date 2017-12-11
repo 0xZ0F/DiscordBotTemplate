@@ -26,7 +26,6 @@ You don't need to give me credit, but credit is apprecieated.
 
 Contact/About:
 -
-By Discord: https://discord.gg/9syQ2dF
 My Twitter: https://twitter.com/BenjaminFlankin
 
 Links:
